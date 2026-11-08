@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/canonical/cassandra-k8s-operator/commit/871c3695a60d204975c0e1c526874d7b3c736859",
       "git:hexsha": "871c3695a60d204975c0e1c526874d7b3c736859",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/canonical/cassandra-k8s-operator/commit/edc87696b876d7fb0078723546ae14c7501d6ca4",
